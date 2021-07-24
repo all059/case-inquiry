@@ -66,3 +66,5 @@ def find_amount():
 # down_pay_house()
 down_pay_with_raise()
 # find_amount()
+
+# if __name__ == "__main__":
